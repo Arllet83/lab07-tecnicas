@@ -1,2 +1,3 @@
-# lab07-tecnicas
-Bitacora de tecnicas avanzadas de prompting
+# Laboratorio 07: Técnicas Avanzadas de Prompting
+
+- [Bitacora de tecnicas avanzadas](prompts/BITACORA.md)
